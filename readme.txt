@@ -5,7 +5,7 @@ Above Educational Bootstrap Responsive template is a modern clean multi-purpose 
 
 Key features
 -------------
-Twitter Bootstrap 3.3.1
+Twitter Makavael
 Clean & Developer-friendly HTML5 and CSS3 code
 100% Responsive Layout Design 
 Multi-purpose theme
@@ -18,9 +18,9 @@ Contact Form
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
+=> Design and developed: "Ahmed Samir"  http://Makavael.com
 => Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
+=> For more free web themes: http://Makavael.com
 => Framework : http://getbootstrap.com
 
 License :
